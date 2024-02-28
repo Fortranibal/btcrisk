@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 import quandl
 import yfinance as yf
 
-# Download historical data from Quandl
+# Download historical data from Quandl: Market Price ($/BTC)
 df = quandl.get('BCHAIN/MKPRU', api_key='FYzyusVT61Y4w65nFESX').reset_index()
 
 # Convert dates to datetime object for easy use
