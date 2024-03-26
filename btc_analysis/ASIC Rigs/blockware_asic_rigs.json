@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Bitmain S19 XP",
+      "serial_number": "ABC123",
+      "original_price": 5000,
+      "date_paid": "2023-01-15",
+      "power": 141,
+      "btc_price_at_purchase": 40000,
+      "energy_cost": 0.08
+    },
+    {
+      "name": "Bitmain S19 XP",
+      "serial_number": "DEF456",
+      "original_price": 8000,
+      "date_paid": "2022-10-20",
+      "power": 141,
+      "btc_price_at_purchase": 40000,
+      "energy_cost": 0.08
+    },
+    {
+      "name": "Bitmain S19 XP",
+      "serial_number": "GHI789",
+      "original_price": 10000,
+      "date_paid": "2023-05-10",
+      "power": 141,
+      "btc_price_at_purchase": 40000,
+      "energy_cost": 0.07
+    }
+  ]
+  
