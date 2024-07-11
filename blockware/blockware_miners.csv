@@ -1,0 +1,395 @@
+Location,MachineName,HashRate(24h),EstRevenue(30d),EstProfit(30d),Price,NumMachines,Cost,URL
+KY-LF,Bitmain S19k Pro 120T,121.17 TH/s,0.00307,0.00035,0.03115,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1596
+KY-RH,Bitmain S19j Pro+ 120T,110.73 TH/s,0.00238,-0.00093,0.02857,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1595
+KY-RH,Bitmain S19j Pro+ 120T,109.81 TH/s,0.00238,-0.00093,0.02857,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1594
+KY-RH,Bitmain S19j Pro+ 120T,110.42 TH/s,0.00238,-0.00093,0.02857,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1593
+KY-RH,Bitmain S19j Pro+ 120T,111.64 TH/s,0.00238,-0.00093,0.02857,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1592
+KY-RH,Bitmain S19j Pro+ 120T,110.19 TH/s,0.00238,-0.00093,0.02857,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1591
+KY-RH,Bitmain S19j Pro+ 120T,111.14 TH/s,0.00238,-0.00093,0.02857,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1590
+KY-LF,Whatsminer M50 120T,111.97 TH/s,0.00308,-0.00018,0.0949,1,0.00326,https://marketplace.blockwaresolutions.com/detail/1589
+KY-BTK,Bitmain S19k Pro 115T,117.62 TH/s,0.00294,0.00022,0.0329,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1587
+KY-BTK,Bitmain S19k Pro 115T,117.41 TH/s,0.00294,0.00022,0.0329,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1586
+KY-BTK,Bitmain S19k Pro 115T,117.27 TH/s,0.00294,0.00022,0.0329,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1585
+KY-BTK,Bitmain S19k Pro 115T,117.69 TH/s,0.00294,0.00022,0.0329,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1584
+KY-BTK,Bitmain S19k Pro 115T,117.41 TH/s,0.00294,0.00022,0.03204,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1583
+KY-BTK,Bitmain S19k Pro 115T,117.34 TH/s,0.00294,0.00022,0.03204,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1582
+KY-BTK,Bitmain S19k Pro 115T,117.47 TH/s,0.00294,0.00022,0.03204,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1581
+KY-BTK,Bitmain S19k Pro 115T,117.03 TH/s,0.00294,0.00022,0.03204,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1580
+KY-BTK,Bitmain S19k Pro 115T,117.46 TH/s,0.00294,0.00022,0.03204,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1579
+KY-LF,Bitmain S19j Pro 96T,89.27 TH/s,0.00184,-0.00095,0.01212,1,0.00279,https://marketplace.blockwaresolutions.com/detail/1578
+KY-LF,Bitmain S19j Pro 104T,96.23 TH/s,0.002045,-0.00098,0.017285,2,0.003025,https://marketplace.blockwaresolutions.com/detail/1577
+KY-LF,Bitmain S19 Pro 110T,106.25399999999999 TH/s,0.002404,-0.000802,0.01905,5,0.0032059999999999996,https://marketplace.blockwaresolutions.com/detail/1576
+KY-LF,Bitmain S19j Pro 100T,92.255 TH/s,0.001945,-0.000965,0.015585,2,0.00291,https://marketplace.blockwaresolutions.com/detail/1575
+KY-LF,Bitmain S19j Pro 96T,69.53 TH/s,0.00205,-0.00098,0.01732,1,0.00303,https://marketplace.blockwaresolutions.com/detail/1574
+KY-LF,Bitmain T19 84T,84.96 TH/s,0.00218,-0.00093,0.00346,1,0.00311,https://marketplace.blockwaresolutions.com/detail/1573
+KY-RH,Bitmain S19 XP 134T,107.0175 TH/s,0.00312,0.0002775,0.04169,4,0.0028425,https://marketplace.blockwaresolutions.com/detail/1572
+KY-LF,Bitmain S19 95T,88.2 TH/s,0.00191,-0.0013,0.00577,1,0.00321,https://marketplace.blockwaresolutions.com/detail/1571
+TX-WTD,M66S 268T 18.5 W/T,337.32 TH/s,0.00692,0.00176,0.1433,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1570
+TX-WTD,M66S 268T 18.5 W/T,335.77 TH/s,0.00685,0.00169,0.14372,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1569
+KY-LF,Bitmain S19 Pro 110T,106.73 TH/s,0.00243,-0.00078,0.01732,1,0.0032099999999999997,https://marketplace.blockwaresolutions.com/detail/1567
+TX-WTD,M66S 268T 18.5 W/T,334.29 TH/s,0.0069,0.00174,0.13811,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1565
+TX-WTD,M66S 268T 18.5 W/T,337.35 TH/s,0.00689,0.00173,0.14504,1,0.0051600000000000005,https://marketplace.blockwaresolutions.com/detail/1564
+KY-LF,Whatsminer M50S 128T,119.02 TH/s,0.00331,8e-05,0.01818,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1563
+KY-LF,Whatsminer M50 120T,109.32 TH/s,0.0031,-0.00017,0.02251,1,0.00327,https://marketplace.blockwaresolutions.com/detail/1562
+KY-RH,Bitmain S21 Pro 234T,235.83 TH/s,0.00598,0.00252,0.11954,1,0.00346,https://marketplace.blockwaresolutions.com/detail/1561
+KY-RH,Bitmain S21 Pro 234T,235.41 TH/s,0.00598,0.00252,0.11954,1,0.00346,https://marketplace.blockwaresolutions.com/detail/1560
+KY-RH,Bitmain S21 Pro 234T,235.85 TH/s,0.00598,0.00252,0.11954,1,0.00346,https://marketplace.blockwaresolutions.com/detail/1559
+KY-RH,Bitmain S21 Pro 234T,235.92 TH/s,0.00598,0.00252,0.11954,1,0.00346,https://marketplace.blockwaresolutions.com/detail/1558
+TX-WTD,M66S 268T 18.5 W/T,340.51 TH/s,0.00686,0.0017,0.13691,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1556
+TX-WTD,M66S 268T 18.5 W/T,340.4 TH/s,0.00688,0.00171,0.13691,1,0.00517,https://marketplace.blockwaresolutions.com/detail/1555
+TX-WTD,M66S 268T 18.5 W/T,339.41 TH/s,0.00688,0.00172,0.13691,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1554
+TX-WTD,M66S 268T 18.5 W/T,338.86 TH/s,0.00684,0.00168,0.13691,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1553
+TX-WTD,M66S 268T 18.5 W/T,335.38 TH/s,0.00683,0.00167,0.13691,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1552
+TX-WTD,M66S 268T 18.5 W/T,334.7 TH/s,0.00689,0.00173,0.13691,1,0.0051600000000000005,https://marketplace.blockwaresolutions.com/detail/1551
+TX-WTD,M66S 268T 18.5 W/T,337.99 TH/s,0.00686,0.0017,0.13691,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1550
+TX-WTD,M66S 268T 18.5 W/T,335.68 TH/s,0.00685,0.00169,0.13691,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1549
+TX-WTD,M66S 268T 18.5 W/T,338.72 TH/s,0.00686,0.00169,0.13691,1,0.005169999999999999,https://marketplace.blockwaresolutions.com/detail/1548
+TX-WTD,M66S 268T 18.5 W/T,341.68 TH/s,0.00689,0.00173,0.13691,1,0.0051600000000000005,https://marketplace.blockwaresolutions.com/detail/1547
+TX-WTD,M66S 268T 18.5 W/T,333.84 TH/s,0.00686,0.0017,0.13691,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1546
+TX-WTD,M66S 268T 18.5 W/T,335.05 TH/s,0.00691,0.00174,0.13691,1,0.00517,https://marketplace.blockwaresolutions.com/detail/1545
+TX-WTD,M66S 268T 18.5 W/T,335.23 TH/s,0.00692,0.00176,0.13691,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1544
+TX-WTD,M66S 268T 18.5 W/T,341.16 TH/s,0.00687,0.00171,0.13691,1,0.0051600000000000005,https://marketplace.blockwaresolutions.com/detail/1543
+TX-WTD,M66S 268T 18.5 W/T,333.65 TH/s,0.00684,0.00168,0.13691,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1542
+TX-WTD,M66S 268T 18.5 W/T,336.83 TH/s,0.00689,0.00172,0.13691,1,0.00517,https://marketplace.blockwaresolutions.com/detail/1541
+TX-WTD,M66S 268T 18.5 W/T,341.63 TH/s,0.00687,0.00171,0.13691,1,0.0051600000000000005,https://marketplace.blockwaresolutions.com/detail/1540
+TX-WTD,M66S 268T 18.5 W/T,340.96 TH/s,0.0069,0.00174,0.13691,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1539
+TX-WTD,M66S 268T 18.5 W/T,334.31 TH/s,0.00687,0.00171,0.13691,1,0.0051600000000000005,https://marketplace.blockwaresolutions.com/detail/1538
+TX-WTD,M66S 268T 18.5 W/T,339.27 TH/s,0.00688,0.00172,0.13691,1,0.00516,https://marketplace.blockwaresolutions.com/detail/1537
+KY-LF,Bitmain S19 Pro 110T,81.87 TH/s,0.0023,-0.00091,0.0123,1,0.00321,https://marketplace.blockwaresolutions.com/detail/1526
+KY-LF,Bitmain S19j Pro 100T,91.86 TH/s,0.001945,-0.000965,0.013855,2,0.00291,https://marketplace.blockwaresolutions.com/detail/1521
+KY-LF,Bitmain S19j Pro 104T,0.09181818181818181 PH/s,0.002046363636363636,-0.0009818181818181818,0.01472,11,0.003028181818181818,https://marketplace.blockwaresolutions.com/detail/1520
+KY-LF,Bitmain S19j Pro+ 120T,0.1111111111111111 PH/s,0.0023788888888888887,-0.0009266666666666667,0.02337888888888889,9,0.0033055555555555555,https://marketplace.blockwaresolutions.com/detail/1519
+KY-LF,Whatsminer M50S 128T,118.94 TH/s,0.00331,7e-05,0.02016,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1515
+KY-LF,Bitmain S19j Pro+ 120T,0.11000000000000001 PH/s,0.002378,-0.0009270000000000001,0.014499999999999999,10,0.0033049999999999998,https://marketplace.blockwaresolutions.com/detail/1509
+KY-LF,Bitmain S19j Pro+ 120T,110.276 TH/s,0.002378,-0.000928,0.05775400000000001,5,0.003306,https://marketplace.blockwaresolutions.com/detail/1504
+KY-LF,Bitmain S19j Pro+ 117T,105.97666666666667 TH/s,0.002276666666666667,-0.0010299999999999999,0.04814333333333334,3,0.003306666666666667,https://marketplace.blockwaresolutions.com/detail/1503
+KY-LF,Bitmain S19 XP 141T,27.87 TH/s,0.00304,5e-05,0.06408,1,0.00299,https://marketplace.blockwaresolutions.com/detail/1487
+KY-LF,Bitmain S19k Pro 115T,116.76 TH/s,0.00294,0.00022,0.044,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1486
+KY-LF,Bitmain S19k Pro 115T,116.29 TH/s,0.00294,0.00022,0.0329,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1485
+KY-LF,Bitmain S19k Pro 115T,116.26 TH/s,0.00294,0.00022,0.04849,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1484
+KY-LF,Bitmain S19k Pro 115T,115.86 TH/s,0.00294,0.00022,0.0329,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1483
+KY-LF,Bitmain S19k Pro 120T,121.59 TH/s,0.00307,0.00035,0.05195,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1482
+KY-LF,Bitmain S19k Pro 120T,121.98 TH/s,0.00307,0.00035,0.05195,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1481
+KY-LF,Bitmain S19k Pro 120T,121.55 TH/s,0.00307,0.00035,0.05195,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1480
+KY-RH,Bitmain S21 195T,198.05 TH/s,0.00499,0.00153,0.10737,1,0.0034599999999999995,https://marketplace.blockwaresolutions.com/detail/1478
+KY-RH,Bitmain S21 188T,190.28 TH/s,0.00481,0.00135,0.08832,1,0.00346,https://marketplace.blockwaresolutions.com/detail/1476
+KY-RH,Bitmain S21 188T,190.58 TH/s,0.00481,0.00135,0.09158,1,0.00346,https://marketplace.blockwaresolutions.com/detail/1475
+KY-LF,Whatsminer M50 120T,112.14 TH/s,0.00309,-0.00018,0.03931,1,0.00327,https://marketplace.blockwaresolutions.com/detail/1474
+OK-GX,Bitmain S19 XP 141T,129.98 TH/s,0.00361,0.00073,0.09268,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/1469
+KY-LF,Whatsminer M30S++ 108T,102.36 TH/s,0.0028,-0.00063,0.00606,1,0.00343,https://marketplace.blockwaresolutions.com/detail/1465
+KY-LF,Bitmain S19j Pro+ 120T,110.2 TH/s,0.00238,-0.00093,0.02945,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1459
+KY-LF,Bitmain S19j Pro+ 120T,111.24 TH/s,0.00238,-0.00093,0.02945,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1458
+KY-LF,Bitmain S19j Pro+ 120T,111.62 TH/s,0.00238,-0.00093,0.02945,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1457
+KY-LF,Bitmain S19j Pro+ 120T,112.38 TH/s,0.00238,-0.00093,0.02945,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1456
+KY-LF,Bitmain S19j Pro+ 120T,110.36 TH/s,0.00238,-0.00093,0.02945,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1455
+OK-GX,Bitmain S19 XP 141T,0.143 PH/s,0.0036060000000000003,0.0007289999999999999,0.0477,10,0.0028770000000000002,https://marketplace.blockwaresolutions.com/detail/1439
+KY-LF,Bitmain S19j Pro 104T,96.33 TH/s,0.00205,-0.00098,0.01386,1,0.00303,https://marketplace.blockwaresolutions.com/detail/1425
+KY-BTK,Bitmain S19 XP 141T,143.3 TH/s,0.00361,0.00061,0.19999,1,0.003,https://marketplace.blockwaresolutions.com/detail/1400
+KY-BTK,Bitmain S19 XP 141T,143.19 TH/s,0.00361,0.00061,0.17777,1,0.003,https://marketplace.blockwaresolutions.com/detail/1399
+KY-BTK,Bitmain S19 XP 141T,143.2 TH/s,0.00361,0.00061,0.19,1,0.003,https://marketplace.blockwaresolutions.com/detail/1398
+KY-BTK,Bitmain S19 XP 141T,142.94 TH/s,0.00361,0.00061,0.17,1,0.003,https://marketplace.blockwaresolutions.com/detail/1397
+KY-LF,Bitmain S19 90T,0.08 PH/s,0.001649375,-0.001558125,0.01039375,16,0.0032075000000000003,https://marketplace.blockwaresolutions.com/detail/1396
+KY-BTK,Bitmain S19k Pro 115T,117.31 TH/s,0.00294,0.00022,0.04417,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1395
+KY-BTK,Bitmain S19k Pro 115T,117.54 TH/s,0.00294,0.00022,0.04296,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1394
+KY-BTK,Bitmain S19k Pro 115T,117.27 TH/s,0.00294,0.00022,0.04313,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1393
+KY-BTK,Bitmain S19k Pro 115T,117.42 TH/s,0.00294,0.00022,0.04331,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/1392
+KY-RH,Bitmain S19 XP 134T,113.05 TH/s,0.00286,2e-05,0.11111,1,0.00284,https://marketplace.blockwaresolutions.com/detail/1391
+KY-LF,Bitmain S19 XP 134T,126.64 TH/s,0.00286,2e-05,0.11111,1,0.00284,https://marketplace.blockwaresolutions.com/detail/1390
+KY-LF,Bitmain T19 84T,84.87 TH/s,0.00215,-0.00096,0.0399,1,0.00311,https://marketplace.blockwaresolutions.com/detail/1389
+KY-LF,Whatsminer M31S+ 84T,77.12 TH/s,0.00216,-0.00116,0.0349,1,0.00332,https://marketplace.blockwaresolutions.com/detail/1388
+KY-LF,Whatsminer M31S+ 84T,62.41 TH/s,0.00215,-0.00117,0.0349,1,0.00332,https://marketplace.blockwaresolutions.com/detail/1387
+KY-LF,Whatsminer M31S+ 84T,77.34 TH/s,0.00217,-0.00115,0.0349,1,0.00332,https://marketplace.blockwaresolutions.com/detail/1386
+KY-LF,Bitmain S19j Pro 96T,88.76 TH/s,0.00184,-0.00095,0.0799,1,0.00279,https://marketplace.blockwaresolutions.com/detail/1384
+KY-LF,Bitmain S19j Pro 96T,89.01 TH/s,0.00184,-0.00095,0.0799,1,0.00279,https://marketplace.blockwaresolutions.com/detail/1383
+KY-LF,Bitmain S19k Pro 120T,121.55 TH/s,0.00307,0.00034,0.03407,1,0.00273,https://marketplace.blockwaresolutions.com/detail/1381
+KY-LF,Whatsminer M50 120T,108.35 TH/s,0.00308,-0.00018,0.02165,1,0.00326,https://marketplace.blockwaresolutions.com/detail/1374
+KY-LF,Whatsminer M50 120T,107.4 TH/s,0.0031,-0.00016,0.02252,1,0.00326,https://marketplace.blockwaresolutions.com/detail/1373
+KY-LF,Whatsminer M50S 128T,117.8 TH/s,0.00327,4e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1361
+KY-LF,Whatsminer M50S 128T,118.28 TH/s,0.00329,5e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1356
+KY-LF,Whatsminer M50S 128T,116.51 TH/s,0.00329,6e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1354
+KY-LF,Whatsminer M50S 128T,116.27 TH/s,0.00328,4e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1353
+KY-LF,Whatsminer M50S 128T,117.35 TH/s,0.0033,6e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1352
+KY-LF,Whatsminer M50S 128T,118.66 TH/s,0.00329,6e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1350
+KY-LF,Whatsminer M50S 128T,117.29 TH/s,0.00328,4e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1349
+KY-LF,Whatsminer M50S 128T,117.87 TH/s,0.0033,7e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1348
+KY-LF,Whatsminer M50S 128T,117.37 TH/s,0.0033,7e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1347
+KY-LF,Whatsminer M50S 128T,117.48 TH/s,0.00329,5e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1346
+KY-LF,Whatsminer M50S 128T,117.36 TH/s,0.00329,6e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1345
+KY-LF,Whatsminer M50S 128T,118.47 TH/s,0.0033,6e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1344
+KY-LF,Whatsminer M50S 128T,117.43 TH/s,0.0033,6e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1343
+KY-LF,Whatsminer M50S 128T,117.55 TH/s,0.00328,5e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1342
+KY-LF,Whatsminer M50S 128T,118.79 TH/s,0.00328,5e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1340
+KY-LF,Whatsminer M50S 128T,119.22 TH/s,0.00329,6e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1339
+KY-LF,Whatsminer M50S 128T,118.82 TH/s,0.00329,6e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1338
+KY-LF,Whatsminer M50S 128T,118.67 TH/s,0.00329,6e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1337
+KY-LF,Whatsminer M50S 128T,117.48 TH/s,0.00329,6e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1336
+KY-LF,Whatsminer M50S 128T,117.93 TH/s,0.00328,4e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1335
+KY-LF,Whatsminer M50S 128T,118.47 TH/s,0.00329,6e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1334
+KY-LF,Whatsminer M50S 128T,118.06 TH/s,0.00329,5e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1333
+KY-LF,Whatsminer M50S 128T,119.54 TH/s,0.00328,5e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1332
+KY-LF,Whatsminer M50S 128T,117.61 TH/s,0.00329,5e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1330
+KY-LF,Whatsminer M50S 128T,117.56 TH/s,0.0033,6e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1329
+KY-LF,Whatsminer M50S 128T,118.58 TH/s,0.00327,4e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1327
+KY-LF,Whatsminer M50S 128T,119.8 TH/s,0.0033,7e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1326
+KY-LF,Whatsminer M50S 128T,118.29 TH/s,0.00329,6e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1325
+KY-LF,Whatsminer M50S 128T,116.01 TH/s,0.00327,4e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1324
+KY-LF,Whatsminer M50S 128T,117.63 TH/s,0.00329,6e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1323
+KY-LF,Whatsminer M50S 128T,118.94 TH/s,0.00328,4e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1322
+KY-LF,Whatsminer M50S 128T,119.01 TH/s,0.00328,5e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1321
+KY-LF,Whatsminer M50S 128T,118.58 TH/s,0.0033,7e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1320
+KY-LF,Whatsminer M50S 128T,119.67 TH/s,0.0033,6e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1319
+KY-LF,Whatsminer M50S 128T,119.47 TH/s,0.00327,4e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1318
+KY-LF,Whatsminer M50S 128T,119.37 TH/s,0.00329,5e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1317
+KY-LF,Whatsminer M50S 128T,118.92 TH/s,0.0033,7e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1316
+KY-LF,Whatsminer M50S 128T,118.11 TH/s,0.00323,-0.0,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1315
+KY-LF,Bitmain S19k Pro 120T,122.51 TH/s,0.00307,0.00034,0.03257,1,0.00273,https://marketplace.blockwaresolutions.com/detail/1289
+KY-LF,Bitmain S19j Pro 96T,88.32 TH/s,0.00194,-0.00085,0.01731,1,0.00279,https://marketplace.blockwaresolutions.com/detail/1276
+KY-RH,Bitmain S19 XP 134T,119.1 TH/s,0.00343,0.00058,0.08662,1,0.00285,https://marketplace.blockwaresolutions.com/detail/1273
+KY-LF,Whatsminer M50S 128T,118.98 TH/s,0.00331,7e-05,0.09989,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1272
+KY-RH,Bitmain S19 XP 134T,112.49 TH/s,0.002865,2e-05,0.10394,2,0.002845,https://marketplace.blockwaresolutions.com/detail/1243
+KY-RH,Bitmain S21 195T,187.27 TH/s,0.00499,0.00153,0.11087,1,0.0034599999999999995,https://marketplace.blockwaresolutions.com/detail/1238
+KY-RH,Bitmain S21 195T,181.7 TH/s,0.00499,0.00153,0.11173,1,0.0034599999999999995,https://marketplace.blockwaresolutions.com/detail/1237
+KY-LF,Bitmain S19k Pro 120T,0.122 PH/s,0.0030689999999999997,0.000345,0.04,10,0.002724,https://marketplace.blockwaresolutions.com/detail/1233
+KY-RH,Bitmain S21 195T,198.19 TH/s,0.00499,0.00153,0.1074,1,0.0034599999999999995,https://marketplace.blockwaresolutions.com/detail/1199
+KY-LF,Bitmain S19j Pro 104T,91.05 TH/s,0.00205,-0.00098,0.01472,1,0.00303,https://marketplace.blockwaresolutions.com/detail/1197
+KY-LF,Bitmain S19j Pro 104T,96.81 TH/s,0.00205,-0.00098,0.01472,1,0.00303,https://marketplace.blockwaresolutions.com/detail/1196
+KY-LF,Whatsminer M30S++ 110T,104.62 TH/s,0.00282,-0.00061,0.01602,1,0.00343,https://marketplace.blockwaresolutions.com/detail/1194
+KY-LF,Whatsminer M30S++ 110T,103.37 TH/s,0.00285,-0.00058,0.01602,1,0.00343,https://marketplace.blockwaresolutions.com/detail/1193
+KY-LF,Whatsminer M30S++ 110T,104.41 TH/s,0.00284,-0.00059,0.01602,1,0.00343,https://marketplace.blockwaresolutions.com/detail/1192
+KY-LF,Whatsminer M30S++ 110T,104.6 TH/s,0.00283,-0.0006,0.01602,1,0.00343,https://marketplace.blockwaresolutions.com/detail/1191
+KY-LF,Whatsminer M50S 128T,117.29 TH/s,0.00331,7e-05,0.02217,1,0.00324,https://marketplace.blockwaresolutions.com/detail/1156
+KY-LF,Whatsminer M50S 128T,118.21 TH/s,0.00328,5e-05,0.02217,1,0.00323,https://marketplace.blockwaresolutions.com/detail/1118
+KY-LF,Whatsminer M50 120T,113.42 TH/s,0.00312,-0.00014,0.02079,1,0.00326,https://marketplace.blockwaresolutions.com/detail/1111
+KY-LF,Bitmain S19 XP 141T,133.68 TH/s,0.00304,5e-05,0.064,1,0.00299,https://marketplace.blockwaresolutions.com/detail/1097
+KY-LF,Whatsminer M50 118T,109.33 TH/s,0.00306,-0.0002,0.03032,1,0.00326,https://marketplace.blockwaresolutions.com/detail/1096
+KY-LF,Bitmain S19j Pro+ 120T,111.6 TH/s,0.00238,-0.00093,0.03378,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1095
+KY-LF,Bitmain S19j Pro+ 120T,111.63 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1094
+KY-LF,Bitmain S19j Pro+ 120T,111.29 TH/s,0.00238,-0.00093,0.03378,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1093
+KY-LF,Bitmain S19j Pro+ 120T,103.8 TH/s,0.00238,-0.00093,0.03378,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1092
+KY-LF,Bitmain S19j Pro+ 120T,112.35 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1091
+KY-LF,Bitmain S19j Pro+ 120T,113.35 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1090
+KY-LF,Bitmain S19j Pro+ 120T,111.79 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1089
+KY-LF,Bitmain S19j Pro+ 120T,111.78 TH/s,0.00238,-0.00093,0.02512,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1088
+KY-LF,Bitmain S19j Pro+ 120T,112.77 TH/s,0.00248,-0.00083,0.02512,1,0.00331,https://marketplace.blockwaresolutions.com/detail/1087
+KY-LF,Bitmain S19j Pro+ 120T,111.09 TH/s,0.00238,-0.00093,0.02512,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/1086
+KY-RH,Bitmain S19 XP 141T,129.14 TH/s,0.00327,0.00028,0.085,1,0.00299,https://marketplace.blockwaresolutions.com/detail/1080
+KY-LF,Bitmain S19j Pro 104T,90.82 TH/s,0.00205,-0.00098,0.00866,1,0.00303,https://marketplace.blockwaresolutions.com/detail/1044
+KY-LF,Whatsminer M50 120T,110.755 TH/s,0.003085,-0.00018,0.03638,2,0.003265,https://marketplace.blockwaresolutions.com/detail/1040
+OK-GX,Bitmain S19k Pro 120T,122.68 TH/s,0.00307,0.00045,0.20786,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1025
+OK-GX,Bitmain S19k Pro 120T,116.46 TH/s,0.00307,0.00045,0.20786,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1024
+OK-GX,Bitmain S19k Pro 120T,121.22 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1021
+OK-GX,Bitmain S19k Pro 120T,121.97 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1019
+OK-GX,Bitmain S19k Pro 120T,116.55 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1016
+OK-GX,Bitmain S19k Pro 120T,120.4 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1015
+OK-GX,Bitmain S19k Pro 120T,122.45 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1014
+OK-GX,Bitmain S19k Pro 120T,122.53 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1013
+OK-GX,Bitmain S19k Pro 120T,122.47 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1012
+OK-GX,Bitmain S19k Pro 120T,122.98 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1010
+OK-GX,Bitmain S19k Pro 120T,122.41 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1009
+OK-GX,Bitmain S19k Pro 120T,122.4 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1008
+OK-GX,Bitmain S19k Pro 120T,121.18 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1007
+OK-GX,Bitmain S19k Pro 120T,122.5 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1006
+OK-GX,Bitmain S19k Pro 120T,122.35 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1005
+OK-GX,Bitmain S19k Pro 120T,120.03 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1004
+OK-GX,Bitmain S19k Pro 120T,122.71 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1002
+OK-GX,Bitmain S19k Pro 120T,118.24 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/1001
+OK-GX,Bitmain S19k Pro 120T,122.75 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/999
+OK-GX,Bitmain S19k Pro 120T,122.53 TH/s,0.00307,0.00045,0.0395,1,0.00262,https://marketplace.blockwaresolutions.com/detail/997
+KY-LF,Bitmain S19j Pro 96T,89.31 TH/s,0.00184,-0.00095,0.0809,1,0.00279,https://marketplace.blockwaresolutions.com/detail/981
+KY-LF,Bitmain S19j Pro 96T,89.29 TH/s,0.00184,-0.00095,0.0809,1,0.00279,https://marketplace.blockwaresolutions.com/detail/980
+KY-LF,Bitmain S19j Pro 96T,92.75 TH/s,0.00246,-0.00034,0.04329,1,0.0028,https://marketplace.blockwaresolutions.com/detail/978
+KY-LF,Whatsminer M30S++ 106T,100.9 TH/s,0.002735,-0.00069,0.010395,2,0.003425,https://marketplace.blockwaresolutions.com/detail/910
+KY-RH,Bitmain S21 195T,197.64333333333332 TH/s,0.004986666666666666,0.0015333333333333334,0.11520000000000001,3,0.0034533333333333326,https://marketplace.blockwaresolutions.com/detail/904
+KY-RH,Bitmain S21 195T,193.75 TH/s,0.00499,0.00153,0.10827,1,0.0034599999999999995,https://marketplace.blockwaresolutions.com/detail/900
+KY-LF,Bitmain T19 84T,85.09 TH/s,0.00218,-0.00093,0.00589,1,0.00311,https://marketplace.blockwaresolutions.com/detail/882
+KY-RH,Bitmain S21 200T,200.18 TH/s,0.00511,0.00166,0.11173,1,0.00345,https://marketplace.blockwaresolutions.com/detail/881
+KY-LF,Bitmain S19 Pro 110T,111.37 TH/s,0.00286,-0.00035,0.01299,2,0.00321,https://marketplace.blockwaresolutions.com/detail/878
+KY-LF,Whatsminer M30S++ 110T,102.01 TH/s,0.00281,-0.00061,0.01334,1,0.00342,https://marketplace.blockwaresolutions.com/detail/877
+KY-LF,Whatsminer M30S++ 108T,101.94 TH/s,0.002775,-0.000655,0.013095,2,0.00343,https://marketplace.blockwaresolutions.com/detail/876
+KY-LF,Whatsminer M30S++ 106T,100.32 TH/s,0.00271,-0.00071,0.01285,1,0.0034200000000000003,https://marketplace.blockwaresolutions.com/detail/875
+KY-LF,Whatsminer M30S++ 106T,99.99 TH/s,0.00275,-0.00068,0.01285,1,0.00343,https://marketplace.blockwaresolutions.com/detail/874
+KY-LF,Whatsminer M30S+ 100T,94.35666666666667 TH/s,0.0025733333333333333,-0.0007816666666666666,0.010393333333333333,6,0.003355,https://marketplace.blockwaresolutions.com/detail/869
+KY-BTK,Bitmain S19k Pro 120T,0.12240000000000001 PH/s,0.0030688,0.0003448,0.0372444,25,0.002724,https://marketplace.blockwaresolutions.com/detail/868
+KY-LF,Bitmain S19 95T,87.75 TH/s,0.00191,-0.0013,0.08662,1,0.00321,https://marketplace.blockwaresolutions.com/detail/867
+KY-LF,Bitmain S19j Pro+ 117T,N/A,0.00303,-0.00028,0.03118,1,0.00331,https://marketplace.blockwaresolutions.com/detail/863
+KY-LF,Whatsminer M50 118T,106.24 TH/s,0.00299,-0.00027,0.03291,1,0.00326,https://marketplace.blockwaresolutions.com/detail/862
+KY-LF,Whatsminer M50 120T,110.555 TH/s,0.0030825,-0.0001825,0.0277175,4,0.003265,https://marketplace.blockwaresolutions.com/detail/860
+KY-LF,Bitmain S19j Pro+ 120T,109.92333333333333 TH/s,0.0023799999999999997,-0.0009266666666666667,0.027716666666666667,3,0.0033066666666666665,https://marketplace.blockwaresolutions.com/detail/858
+KY-LF,Bitmain S19j Pro+ 120T,108.65888888888888 TH/s,0.0023788888888888887,-0.0009277777777777778,0.026851111111111114,9,0.0033066666666666665,https://marketplace.blockwaresolutions.com/detail/857
+KY-LF,Bitmain S19j Pro+ 120T,0.10916666666666668 PH/s,0.0024358333333333333,-0.0008708333333333333,0.025118333333333336,24,0.0033066666666666665,https://marketplace.blockwaresolutions.com/detail/856
+KY-LF,Bitmain S19j Pro 96T,88.1 TH/s,0.00184,-0.00095,0.04329,1,0.00279,https://marketplace.blockwaresolutions.com/detail/855
+KY-LF,Bitmain S19 95T,87.9 TH/s,0.00191,-0.0013,0.01109,1,0.00321,https://marketplace.blockwaresolutions.com/detail/854
+KY-RH,Bitmain S19 XP 141T,119.39 TH/s,0.00304,5e-05,0.08055,1,0.00299,https://marketplace.blockwaresolutions.com/detail/843
+KY-LF,Bitmain S19j Pro 104T,96.24 TH/s,0.00205,-0.00098,0.05,1,0.00303,https://marketplace.blockwaresolutions.com/detail/841
+KY-RH,Bitmain S21 195T,195.94 TH/s,0.00499,0.00153,0.11823,1,0.0034599999999999995,https://marketplace.blockwaresolutions.com/detail/840
+KY-LF,Whatsminer M50 120T,109.54666666666667 TH/s,0.0031033333333333334,-0.00016,0.037193333333333335,3,0.0032633333333333334,https://marketplace.blockwaresolutions.com/detail/831
+KY-LF,Bitmain S19j Pro 96T,88.43 TH/s,0.00184,-0.00095,0.03,1,0.00279,https://marketplace.blockwaresolutions.com/detail/829
+KY-LF,Whatsminer M30S++ 110T,103.61 TH/s,0.00281,-0.00062,0.09,1,0.00343,https://marketplace.blockwaresolutions.com/detail/822
+KY-LF,Whatsminer M30S++ 110T,102.99 TH/s,0.00282,-0.00061,0.09,1,0.00343,https://marketplace.blockwaresolutions.com/detail/821
+KY-LF,Whatsminer M30S++ 110T,102.69 TH/s,0.00282,-0.00061,0.09,1,0.00343,https://marketplace.blockwaresolutions.com/detail/820
+KY-LF,Whatsminer M30S++ 110T,102.92 TH/s,0.00282,-0.00061,0.09,1,0.00343,https://marketplace.blockwaresolutions.com/detail/819
+KY-LF,Whatsminer M30S++ 110T,103.39 TH/s,0.00282,-0.00061,0.09,1,0.00343,https://marketplace.blockwaresolutions.com/detail/818
+KY-LF,Whatsminer M30S++ 110T,102.58 TH/s,0.00281,-0.00061,0.09,1,0.00342,https://marketplace.blockwaresolutions.com/detail/817
+KY-LF,Whatsminer M30S++ 110T,104.13 TH/s,0.00282,-0.00061,0.09,1,0.00343,https://marketplace.blockwaresolutions.com/detail/816
+KY-LF,Whatsminer M30S++ 110T,104.09 TH/s,0.00284,-0.00059,0.09,1,0.00343,https://marketplace.blockwaresolutions.com/detail/815
+KY-LF,Whatsminer M30S++ 110T,102.52 TH/s,0.00283,-0.0006,0.09,1,0.00343,https://marketplace.blockwaresolutions.com/detail/814
+KY-LF,Bitmain S19j Pro 92T,106.07 TH/s,0.00266,-0.00035,0.01429,1,0.00301,https://marketplace.blockwaresolutions.com/detail/791
+KY-LF,Bitmain S19j Pro 92T,108.21 TH/s,0.00266,-0.00035,0.01429,1,0.00301,https://marketplace.blockwaresolutions.com/detail/790
+KY-LF,Bitmain S19j Pro 92T,108.3 TH/s,0.00266,-0.00035,0.01429,1,0.00301,https://marketplace.blockwaresolutions.com/detail/789
+KY-LF,Bitmain S19j Pro 92T,100.25 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/788
+KY-LF,Bitmain S19j Pro 92T,102.93 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/787
+KY-LF,Bitmain S19j Pro 92T,102.93 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/786
+KY-LF,Bitmain S19j Pro 92T,100.92 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/785
+KY-LF,Bitmain S19j Pro 92T,99.04 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/784
+KY-LF,Bitmain S19j Pro 92T,102.18 TH/s,0.00256,-0.00045,0.01429,1,0.00301,https://marketplace.blockwaresolutions.com/detail/782
+KY-LF,Bitmain S19j Pro 92T,101.17 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/781
+KY-LF,Bitmain S19j Pro 92T,100.5 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/780
+KY-LF,Bitmain S19j Pro 92T,99.64 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/779
+KY-LF,Bitmain S19j Pro 92T,103.81 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/778
+KY-LF,Bitmain S19j Pro 92T,107.71 TH/s,0.00266,-0.00035,0.01429,1,0.00301,https://marketplace.blockwaresolutions.com/detail/777
+KY-LF,Bitmain S19j Pro 92T,106.84 TH/s,0.00266,-0.00035,0.01429,1,0.00301,https://marketplace.blockwaresolutions.com/detail/776
+KY-LF,Bitmain S19j Pro 92T,105.21 TH/s,0.00266,-0.00035,0.01429,1,0.00301,https://marketplace.blockwaresolutions.com/detail/775
+KY-LF,Bitmain S19j Pro 92T,99.61 TH/s,0.00266,-0.00035,0.01429,1,0.00301,https://marketplace.blockwaresolutions.com/detail/774
+KY-LF,Bitmain S19j Pro 92T,100.03 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/773
+KY-LF,Bitmain S19j Pro 92T,99.7 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/772
+KY-LF,Bitmain S19j Pro 92T,66.51 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/771
+KY-LF,Bitmain S19j Pro 92T,102.84 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/770
+KY-LF,Bitmain S19j Pro 92T,100.6 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/769
+KY-LF,Bitmain S19j Pro 92T,99.64 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/768
+KY-LF,Bitmain S19j Pro 92T,100.25 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/767
+KY-LF,Bitmain S19j Pro 92T,102.84 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/766
+KY-LF,Bitmain S19j Pro 92T,0.07 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/765
+KY-LF,Bitmain S19j Pro 92T,100.51 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/764
+KY-LF,Bitmain S19j Pro 92T,98.03 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/763
+KY-LF,Bitmain S19j Pro 92T,103.78 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/762
+KY-LF,Bitmain S19j Pro 92T,102.11 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/761
+KY-LF,Bitmain S19j Pro 92T,100.3 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/760
+KY-LF,Bitmain S19j Pro 92T,102.69 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/759
+KY-LF,Bitmain S19j Pro 92T,99.16 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/758
+KY-LF,Bitmain S19j Pro 92T,97.16 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/756
+KY-LF,Bitmain S19j Pro 92T,6.33 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/755
+KY-LF,Bitmain S19j Pro 92T,99.0 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/754
+KY-LF,Bitmain S19j Pro 92T,99.3 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/753
+KY-LF,Bitmain S19j Pro 92T,97.74 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/752
+KY-LF,Bitmain S19j Pro 92T,99.66 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/751
+KY-LF,Bitmain S19j Pro 92T,102.38 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/750
+KY-LF,Bitmain S19j Pro 92T,102.92 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/749
+KY-LF,Bitmain S19j Pro 92T,105.76 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/748
+KY-LF,Bitmain S19j Pro 92T,101.93 TH/s,0.00246,-0.00056,0.01429,1,0.00302,https://marketplace.blockwaresolutions.com/detail/747
+KY-LF,Bitmain S19j Pro+ 120T,110.25 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/705
+KY-LF,Bitmain S19j Pro+ 120T,109.24 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/704
+KY-LF,Bitmain S19j Pro+ 120T,109.89 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/703
+KY-LF,Bitmain S19j Pro+ 120T,109.78 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/702
+KY-LF,Bitmain S19j Pro+ 120T,110.83 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/701
+KY-LF,Bitmain S19j Pro+ 120T,106.98 TH/s,0.00307,-0.00024,0.03032,1,0.00331,https://marketplace.blockwaresolutions.com/detail/700
+KY-LF,Bitmain S19j Pro+ 120T,110.21 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/699
+KY-LF,Bitmain S19j Pro+ 120T,110.91 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/698
+KY-LF,Bitmain S19j Pro+ 120T,110.46 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/697
+KY-LF,Bitmain S19j Pro+ 120T,111.74 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/696
+KY-LF,Bitmain S19j Pro+ 120T,109.91 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/695
+KY-LF,Bitmain S19j Pro+ 120T,111.83 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/693
+KY-LF,Bitmain S19j Pro+ 120T,55.01 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/692
+KY-LF,Bitmain S19j Pro+ 120T,112.75 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/691
+KY-LF,Bitmain S19j Pro+ 120T,110.08 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/690
+KY-LF,Bitmain S19j Pro+ 120T,112.12 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/689
+KY-LF,Bitmain S19j Pro+ 120T,105.68 TH/s,0.0,-0.00331,0.03032,1,0.00331,https://marketplace.blockwaresolutions.com/detail/688
+KY-LF,Bitmain S19j Pro+ 120T,110.43 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/687
+KY-LF,Bitmain S19j Pro+ 120T,110.33 TH/s,0.00238,-0.00093,0.03032,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/686
+KY-LF,Whatsminer M50 120T,107.22 TH/s,0.00307,-0.0002,0.03118,1,0.00327,https://marketplace.blockwaresolutions.com/detail/670
+KY-LF,Whatsminer M50 120T,112.05 TH/s,0.00307,-0.0002,0.03118,1,0.00327,https://marketplace.blockwaresolutions.com/detail/669
+KY-LF,Whatsminer M50 120T,112.12 TH/s,0.00307,-0.0002,0.03118,1,0.00327,https://marketplace.blockwaresolutions.com/detail/668
+KY-LF,Whatsminer M50 120T,108.31 TH/s,0.00307,-0.00019,0.03118,1,0.00326,https://marketplace.blockwaresolutions.com/detail/667
+KY-LF,Whatsminer M50 120T,107.95 TH/s,0.00308,-0.00019,0.03118,1,0.00327,https://marketplace.blockwaresolutions.com/detail/666
+KY-LF,Whatsminer M50 120T,111.75 TH/s,0.00309,-0.00017,0.03118,1,0.00326,https://marketplace.blockwaresolutions.com/detail/665
+KY-LF,Whatsminer M50 120T,112.2 TH/s,0.0031,-0.00017,0.03118,1,0.00327,https://marketplace.blockwaresolutions.com/detail/664
+KY-LF,Whatsminer M50 120T,112.68 TH/s,0.00308,-0.00018,0.03118,1,0.00326,https://marketplace.blockwaresolutions.com/detail/663
+KY-LF,Whatsminer M50 120T,110.91 TH/s,0.00308,-0.00018,0.03118,1,0.00326,https://marketplace.blockwaresolutions.com/detail/662
+KY-LF,Whatsminer M50 120T,109.23 TH/s,0.00307,-0.00019,0.03118,1,0.00326,https://marketplace.blockwaresolutions.com/detail/661
+KY-LF,Whatsminer M50 120T,112.51 TH/s,0.00308,-0.00018,0.03118,1,0.00326,https://marketplace.blockwaresolutions.com/detail/660
+KY-LF,Whatsminer M50 120T,110.96 TH/s,0.00308,-0.00018,0.03118,1,0.00326,https://marketplace.blockwaresolutions.com/detail/659
+KY-LF,Whatsminer M50 120T,107.67 TH/s,0.00308,-0.00018,0.03118,1,0.00326,https://marketplace.blockwaresolutions.com/detail/658
+KY-LF,Whatsminer M50 120T,112.08 TH/s,0.00307,-0.00019,0.03118,1,0.00326,https://marketplace.blockwaresolutions.com/detail/657
+KY-LF,Whatsminer M50 120T,109.05 TH/s,0.0031,-0.00016,0.03118,1,0.00326,https://marketplace.blockwaresolutions.com/detail/656
+KY-LF,Whatsminer M30S++ 110T,102.65 TH/s,0.00282,-0.0006,0.015,1,0.00342,https://marketplace.blockwaresolutions.com/detail/648
+KY-LF,Whatsminer M30S 90T,83.96 TH/s,0.00234,-0.00097,0.01039,1,0.00331,https://marketplace.blockwaresolutions.com/detail/630
+KY-LF,Whatsminer M30S 92T,88.125 TH/s,0.00237,-0.00093,0.00866,2,0.0033,https://marketplace.blockwaresolutions.com/detail/628
+KY-LF,Bitmain S19 XP 134T,125.44 TH/s,0.00286,2e-05,0.07102,1,0.00284,https://marketplace.blockwaresolutions.com/detail/625
+OK-GX,Bitmain S19 XP 141T,0.13875 PH/s,0.00360625,0.00072875,0.0727575,8,0.0028775,https://marketplace.blockwaresolutions.com/detail/623
+KY-LF,Bitmain S19k Pro 110T,0.11100000000000002 PH/s,0.002813,8.9e-05,0.051952,10,0.002724,https://marketplace.blockwaresolutions.com/detail/612
+KY-LF,Bitmain S19k Pro 110T,111.27 TH/s,0.00281,9e-05,0.0866,1,0.00272,https://marketplace.blockwaresolutions.com/detail/611
+OK-GX,Bitmain S19 XP 141T,143.2 TH/s,0.00361,0.00073,0.17323,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/610
+KY-BTK,Bitmain S19k Pro 115T,0.11777777777777779 PH/s,0.0029411111111111114,0.00021666666666666666,0.03118111111111111,9,0.0027244444444444447,https://marketplace.blockwaresolutions.com/detail/608
+KY-BTK,Bitmain S19k Pro 115T,117.5 TH/s,0.00294,0.00022,0.03465,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/607
+KY-LF,Bitmain S19j Pro 104T,96.56 TH/s,0.00205,-0.00098,0.00953,1,0.00303,https://marketplace.blockwaresolutions.com/detail/604
+KY-LF,Whatsminer M30S+ 102T,94.79 TH/s,0.0026,-0.00075,0.01126,1,0.0033499999999999997,https://marketplace.blockwaresolutions.com/detail/601
+KY-LF,Whatsminer M30S++ 110T,83.914 TH/s,0.002824,-0.000604,0.021654,5,0.003428,https://marketplace.blockwaresolutions.com/detail/599
+KY-RH,Bitmain S19j Pro+ 120T,111.52 TH/s,0.00238,-0.00093,0.03638,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/555
+KY-RH,Bitmain S19j Pro+ 120T,111.73 TH/s,0.00238,-0.00093,0.03621,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/554
+KY-RH,Bitmain S19j Pro+ 120T,111.31 TH/s,0.00238,-0.00093,0.03603,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/553
+KY-RH,Bitmain S19j Pro+ 120T,112.19 TH/s,0.00238,-0.00093,0.03586,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/552
+KY-BTK,Bitmain S19 XP 134T,136.85 TH/s,0.00343,0.00058,0.07622,1,0.00285,https://marketplace.blockwaresolutions.com/detail/551
+KY-BTK,Bitmain S19 XP 134T,113.14 TH/s,0.00343,0.00058,0.07449,1,0.00285,https://marketplace.blockwaresolutions.com/detail/549
+KY-BTK,Bitmain S19 XP 134T,136.82 TH/s,0.00343,0.00058,0.07362,1,0.00285,https://marketplace.blockwaresolutions.com/detail/548
+KY-LF,Bitmain S19j Pro 104T,96.82 TH/s,0.00205,-0.00098,0.03465,1,0.00303,https://marketplace.blockwaresolutions.com/detail/546
+KY-LF,Bitmain S19 Pro 110T,105.3 TH/s,0.0023,-0.00091,0.05197,1,0.00321,https://marketplace.blockwaresolutions.com/detail/489
+KY-BTK,Bitmain S19k Pro 115T,117.48 TH/s,0.00294,0.00022,0.09961,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/398
+KY-BTK,Bitmain S19k Pro 115T,117.69 TH/s,0.00294,0.00022,0.09961,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/397
+KY-BTK,Bitmain S19k Pro 115T,117.31 TH/s,0.00294,0.00022,0.09961,1,0.0027199999999999998,https://marketplace.blockwaresolutions.com/detail/396
+KY-LF,Bitmain S19j Pro 104T,96.88 TH/s,0.00205,-0.00098,0.0919,1,0.00303,https://marketplace.blockwaresolutions.com/detail/359
+KY-LF,Whatsminer M50 120T,111.86 TH/s,0.0031,-0.00016,0.03724,1,0.00326,https://marketplace.blockwaresolutions.com/detail/327
+KY-LF,Whatsminer M50 120T,111.43 TH/s,0.00311,-0.00015,0.03724,1,0.00326,https://marketplace.blockwaresolutions.com/detail/326
+KY-LF,Whatsminer M50 120T,110.84 TH/s,0.00309,-0.00017,0.03724,1,0.00326,https://marketplace.blockwaresolutions.com/detail/325
+KY-LF,Whatsminer M50 120T,110.12 TH/s,0.00308,-0.00018,0.03724,1,0.00326,https://marketplace.blockwaresolutions.com/detail/324
+KY-LF,Whatsminer M50 120T,109.57 TH/s,0.00307,-0.00019,0.065,1,0.00326,https://marketplace.blockwaresolutions.com/detail/323
+KY-LF,Bitmain S19 Pro 110T,N/A,0.0,-0.00321,0.0061,1,0.00321,https://marketplace.blockwaresolutions.com/detail/322
+KY-LF,Whatsminer M50 120T,110.67 TH/s,0.0031,-0.00016,0.03724,1,0.00326,https://marketplace.blockwaresolutions.com/detail/319
+KY-LF,Whatsminer M50 120T,110.76 TH/s,0.00307,-0.00019,0.03724,1,0.00326,https://marketplace.blockwaresolutions.com/detail/316
+KY-LF,Whatsminer M50 120T,110.04 TH/s,0.00308,-0.00018,0.03724,1,0.00326,https://marketplace.blockwaresolutions.com/detail/315
+KY-LF,Whatsminer M50 120T,111.55 TH/s,0.00309,-0.00017,0.03724,1,0.00326,https://marketplace.blockwaresolutions.com/detail/314
+OK-GX,Bitmain S19 XP 141T,95.5 TH/s,0.00361,0.00073,0.065,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/311
+KY-LF,Whatsminer M50 120T,110.74 TH/s,0.00307,-0.00019,0.03724,1,0.00326,https://marketplace.blockwaresolutions.com/detail/307
+KY-LF,Whatsminer M50 120T,110.51 TH/s,0.00307,-0.00019,0.03724,1,0.00326,https://marketplace.blockwaresolutions.com/detail/306
+KY-LF,Whatsminer M50 120T,110.13 TH/s,0.00307,-0.0002,0.03719,1,0.00327,https://marketplace.blockwaresolutions.com/detail/300
+KY-BTK,Bitmain S19k Pro 120T,122.43 TH/s,0.00307,0.00034,0.03638,1,0.00273,https://marketplace.blockwaresolutions.com/detail/295
+KY-LF,Whatsminer M30S 90T,80.99 TH/s,0.00234,-0.00096,0.01039,1,0.0033,https://marketplace.blockwaresolutions.com/detail/292
+KY-BTK,Bitmain S19k Pro 120T,122.63 TH/s,0.00307,0.00034,0.03724,1,0.00273,https://marketplace.blockwaresolutions.com/detail/287
+KY-LF,Whatsminer M30S+ 100T,96.9 TH/s,0.0026,-0.00075,0.01386,1,0.0033499999999999997,https://marketplace.blockwaresolutions.com/detail/277
+OK-GX,Bitmain S19 XP 141T,142.85 TH/s,0.00361,0.00073,0.08315,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/269
+OK-GX,Bitmain S19 XP 141T,143.22 TH/s,0.00361,0.00073,0.08315,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/266
+OK-GX,Bitmain S19 XP 141T,143.22 TH/s,0.00361,0.00073,0.08315,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/265
+OK-GX,Bitmain S19 XP 141T,143.33 TH/s,0.00361,0.00073,0.08315,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/264
+OK-GX,Bitmain S19 XP 141T,143.07 TH/s,0.00361,0.00073,0.06929,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/263
+KY-LF,Whatsminer M50 120T,107.8 TH/s,0.00307,-0.00019,0.02209,1,0.00326,https://marketplace.blockwaresolutions.com/detail/236
+KY-LF,Bitmain S19j Pro 104T,70.19 TH/s,0.00271,-0.0003,0.01618,1,0.00301,https://marketplace.blockwaresolutions.com/detail/232
+KY-LF,Whatsminer M50 120T,109.16 TH/s,0.00309,-0.00018,0.095,1,0.00327,https://marketplace.blockwaresolutions.com/detail/187
+KY-LF,Whatsminer M50 120T,112.57 TH/s,0.00309,-0.00017,0.09528,1,0.00326,https://marketplace.blockwaresolutions.com/detail/183
+KY-LF,Bitmain S19 95T,87.97 TH/s,0.00191,-0.0013,0.0449,1,0.00321,https://marketplace.blockwaresolutions.com/detail/153
+KY-BTK,Bitmain S19k Pro 120T,122.44 TH/s,0.00307,0.00034,0.03465,1,0.00273,https://marketplace.blockwaresolutions.com/detail/130
+OK-GX,Bitmain S19 XP 141T,142.68 TH/s,0.00361,0.00073,0.06929,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/118
+OK-GX,Bitmain S19 XP 141T,142.88 TH/s,0.00361,0.00073,0.08315,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/117
+OK-GX,Bitmain S19 XP 141T,142.96 TH/s,0.00361,0.00073,0.08315,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/94
+OK-GX,Bitmain S19 XP 141T,142.94 TH/s,0.00361,0.00073,0.08315,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/93
+OK-GX,Bitmain S19 XP 141T,143.03 TH/s,0.00361,0.00073,0.08315,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/92
+OK-GX,Bitmain S19 XP 141T,142.82 TH/s,0.00361,0.00073,0.08315,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/91
+OK-GX,Bitmain S19 XP 141T,143.14 TH/s,0.00361,0.00073,0.08315,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/90
+OK-GX,Bitmain S19 XP 141T,143.01 TH/s,0.00361,0.00073,0.06929,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/64
+OK-GX,Bitmain S19 XP 141T,143.15 TH/s,0.00361,0.00073,0.06929,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/63
+KY-LF,Bitmain S19 95T,87.8 TH/s,0.00191,-0.0013,0.0449,1,0.00321,https://marketplace.blockwaresolutions.com/detail/59
+KY-LF,Bitmain S19j Pro 96T,87.81 TH/s,0.00184,-0.00095,0.0799,1,0.00279,https://marketplace.blockwaresolutions.com/detail/55
+KY-LF,Whatsminer M50 120T,111.89 TH/s,0.00307,-0.00019,0.09,1,0.00326,https://marketplace.blockwaresolutions.com/detail/54
+KY-LF,Whatsminer M50 120T,111.83 TH/s,0.00307,-0.0002,0.0641,1,0.00327,https://marketplace.blockwaresolutions.com/detail/53
+KY-LF,Whatsminer M30S++ 102T,94.94 TH/s,0.00261,-0.00081,0.00693,1,0.00342,https://marketplace.blockwaresolutions.com/detail/52
+KY-LF,Whatsminer M30S++ 102T,96.96 TH/s,0.00262,-0.00081,0.02252,1,0.00343,https://marketplace.blockwaresolutions.com/detail/51
+OK-GX,Bitmain S19 XP 141T,143.13 TH/s,0.00361,0.00073,0.08315,1,0.0028799999999999997,https://marketplace.blockwaresolutions.com/detail/48
+KY-LF,Bitmain S19 XP 141T,104.16 TH/s,0.00304,5e-05,0.15764,1,0.00299,https://marketplace.blockwaresolutions.com/detail/45
+KY-LF,Bitmain S19j Pro 96T,83.59 TH/s,0.00184,-0.00095,0.0799,1,0.00279,https://marketplace.blockwaresolutions.com/detail/42
+KY-LF,Bitmain T19 84T,84.71 TH/s,0.00218,-0.00093,0.00606,1,0.00311,https://marketplace.blockwaresolutions.com/detail/39
+KY-LF,Bitmain S19j Pro 104T,95.7 TH/s,0.00205,-0.00098,0.01472,1,0.00303,https://marketplace.blockwaresolutions.com/detail/29
+KY-LF,Bitmain S19 XP 141T,135.89 TH/s,0.00327,0.00028,0.16024,1,0.00299,https://marketplace.blockwaresolutions.com/detail/13
+KY-LF,Bitmain S19j Pro+ 120T,111.01 TH/s,0.00238,-0.00093,0.03984,1,0.0033100000000000004,https://marketplace.blockwaresolutions.com/detail/11
+KY-LF,Bitmain T19 84T,85.02 TH/s,0.00218,-0.00093,0.00606,1,0.00311,https://marketplace.blockwaresolutions.com/detail/8
+KY-LF,Whatsminer M30S++ 102T,94.59 TH/s,0.00263,-0.0008,0.01906,1,0.00343,https://marketplace.blockwaresolutions.com/detail/7
+KY-LF,Whatsminer M50 120T,112.28 TH/s,0.0031,-0.00016,0.0641,1,0.00326,https://marketplace.blockwaresolutions.com/detail/6
+KY-LF,Whatsminer M50 120T,111.57 TH/s,0.0031,-0.00016,0.07795,1,0.00326,https://marketplace.blockwaresolutions.com/detail/5
+KY-LF,Bitmain S19j Pro 104T,96.31 TH/s,0.00205,-0.00098,0.0919,1,0.00303,https://marketplace.blockwaresolutions.com/detail/3
+KY-LF,Bitmain S19j Pro 96T,88.88 TH/s,0.00184,-0.00095,0.0848,1,0.00279,https://marketplace.blockwaresolutions.com/detail/2
